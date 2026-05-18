@@ -12,7 +12,7 @@ import {
   IconBranchMergeOutline24 as GitPullRequestIcon,
   IconCopyOutline24 as CopyIcon,
   IconPencilOutline24 as PencilIcon,
-  IconPinTackSlashOutline24 as PinOffIcon,
+  IconPinXmarkOutline24 as PinOffIcon,
   IconPinTackOutline24 as PinIcon,
   IconMagnifierOutline24 as SearchIcon,
   IconComposeOutline24 as NewThreadIcon,
